@@ -1,0 +1,47 @@
+{
+    "window.zoomLevel": 0,
+    "editor.fontSize": 14,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.formatOnSave": true,
+    "vsicons.presets.tsOfficial": true,
+    "vsicons.presets.jsOfficial": true,
+    "vsicons.presets.jsonOfficial": true,
+    "vsicons.projectDetection.disableDetect": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.tree.indent": 20,
+    "vsicons.presets.hideFolders": true,
+    "vscode_custom_css.imports": [
+        "file:///Users/name/vs-code-settings/vs-code-custom.css"
+    ],
+    "vscode_custom_css.policy": true,
+    "editor.fontLigatures": true,
+    "workbench.fontAliasing": "antialiased",
+    "extensions.autoCheckUpdates": false,
+    // ????
+    "editor.tabCompletion": "on",
+    // "editor.quickSuggestions": {
+    //     "other": false,
+    //     "comments": false,
+    //     "strings": false
+    // },
+    "[markdown]": {
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": false,
+            "strings": false
+        }
+    },
+    "git.autofetch": true,
+    "workbench.colorTheme": "Default Light+",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 20000,
+    "git.enableSmartCommit": true,
+    "npm.enableScriptExplorer": true,
+    "npm.enableRunFromFolder": true,
+    "files.exclude": {
+        "**/.idea": true
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    // "editor.suggest.showSnippets": false,
+    // "workbench.editor.enablePreview": false
+}
